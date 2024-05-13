@@ -21,3 +21,10 @@ Orders are maximum in the month of July & Jan with thrs fri sat with maximum num
 
 6. Order DAY = upper(left(pizza_sales[Day Name],3))
 7. Order Month = upper(left(pizza_sales[Month Name],3))
+
+
+![Screenshot (13)](https://github.com/Zasrango/Pizza-Sale-Project/assets/169545862/f24fefd5-379f-49e3-83c7-f6a05aea23a9)
+![Screenshot (14)](https://github.com/Zasrango/Pizza-Sale-Project/assets/169545862/009022e3-fd7e-437f-95a4-05d67673f250)
+
+
+
